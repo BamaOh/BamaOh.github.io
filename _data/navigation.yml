@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Daily Coding"
+    url: /categories/coding/
+  - title: "Projects"
+    url: /categories/projects/
+  - title: "Categories"
+    url: /categories/
