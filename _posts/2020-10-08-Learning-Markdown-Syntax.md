@@ -77,7 +77,7 @@ int main(){
     cout << "Hello World!" << x << std::endl();
 }
 ```
-*Python
+* Python
 ```python
 s = "Python syntax highlighting"
 print(s)
