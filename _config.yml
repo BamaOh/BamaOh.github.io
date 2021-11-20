@@ -97,9 +97,7 @@ author:
   avatar           : "/image/IMG_0074.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Working, learning, testing, explaning, enjoying."
   location         : "Seoul, South Korea"
-  email            : "sminoh1205@gmail.com"
   links:
-      url: "mailto:sminoh1205@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BamaOh"
